@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "address": "GAzT14zJ4n6eJqx5EsrQEa5LSHKXpPfujh8KaJkti7D6",
+            "share": 0,
+            "verified": true
+        },
+        {
+            "address": "7TRy7mCQMmcddEMbAh6UEFjMR1yjrrFFsXeMKT86QrxM",
+            "share": 100,
+            "verified": false
+        }
+    ],
+    "name": "",
+    "seller_fee_basis_points": 330,
+    "symbol": "CoCh",
+    "uri": "https://testlaunchmynft.mypinata.cloud/ipfs/QmWBjWGwsmcwBx2SKWWwXA9UtebpKeExvAxVRr8pvuEp9u/1219.json"
+}
